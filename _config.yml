@@ -2,7 +2,10 @@ title: "Shubham Bhandare"
 
 author: "Shubham Bhandare"
 
-description: "© 2026 Shubham Bhandare"
+description: "Shubham Bhandare – Economics researcher working on political economy, elections, development, and applied econometrics."
+
+url: "https://bhandareshubham.github.io"
+baseurl: ""
 
 lang: "en"
 permalink: /:title/
@@ -36,4 +39,6 @@ comments:
 #  isso_domain: ""
 
 plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
