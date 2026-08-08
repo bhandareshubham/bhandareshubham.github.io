@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bhandareshubham.github.io/sitemap.xml
