@@ -1,5 +1,6 @@
 ---
 title: Home
+description: "Shubham Bhandare – Economics researcher working on political economy, elections, development, political representation, and applied microeconomics."
 ---
 <div class="about-container">
 <div class="about-img-wrapper">
