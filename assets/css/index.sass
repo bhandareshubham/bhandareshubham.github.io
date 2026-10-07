@@ -67,3 +67,43 @@ h4,
 h5,
 h6
   font-family: "Times New Roman", Times, serif
+
+.about-container
+  display: flex
+  align-items: flex-start
+  gap: 2rem
+  margin-top: 1rem
+
+.about-img-wrapper
+  flex-shrink: 0
+
+.about-img
+  width: 100%
+  max-width: 260px
+  height: auto
+  aspect-ratio: 4 / 5
+  object-fit: cover
+  border-radius: 8px
+  display: block
+
+.about-text
+  flex: 1
+
+@media (max-width: 768px)
+  .about-container
+    flex-direction: column
+    align-items: center
+
+  .about-img
+    max-width: 230px
+
+  .about-text
+    text-align: center
+
+
+
+
+
+
+
+  
