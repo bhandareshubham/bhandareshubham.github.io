@@ -10,9 +10,7 @@ One thing that stood out to me in the Pew Research Center’s India survey is ho
 
 To me, this is interesting because it shows that the idea of women’s safety is understood in two very different ways: changing how boys and men behave, and changing how girls and women are expected to behave. The fact that such a large share still places emphasis on girls’ behaviour makes me wonder how deeply ideas about gender and responsibility are embedded in everyday socialisation.
 
-But there is another part of the data that I find equally interesting: relatively few people identify improving law and order as the most important step. Why is that?
-
-Perhaps we have become more accustomed to thinking about women’s safety as something that must be managed through individual behaviour and social norms, rather than as a question of institutions, policing, accountability, and enforcement of the law.
+But there is another part of the data that I find equally interesting: relatively few people identify improving law and order as the most important step. Why is that?Perhaps we have become more accustomed to thinking about women’s safety as something that must be managed through individual behaviour and social norms, rather than as a question of institutions, policing, accountability, and enforcement of the law.
 
 Maybe the more important question is not simply, *“What should girls do to stay safe?”* but rather, *“Why is women’s safety so often framed around changing women’s behaviour in the first place—and where does institutional responsibility fit into this?”*
 
