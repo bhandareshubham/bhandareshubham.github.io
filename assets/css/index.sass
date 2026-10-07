@@ -71,36 +71,39 @@ h6
 .about-container
   display: flex
   align-items: flex-start
-  gap: 2rem
+  gap: 3rem
   margin-top: 1rem
-
-.about-img-wrapper
-  flex-shrink: 0
-
-.about-img
-  width: 100%
-  max-width: 260px
-  height: auto
-  aspect-ratio: 4 / 5
-  object-fit: cover
-  border-radius: 8px
-  display: block
 
 .about-text
   flex: 1
+  min-width: 0
+
+.about-img-wrapper
+  flex: 0 0 240px
+  order: 2
+
+.about-img
+  width: 240px
+  height: 300px
+  object-fit: cover
+  border-radius: 8px
+  display: block
 
 @media (max-width: 768px)
   .about-container
     flex-direction: column
     align-items: center
 
+  .about-img-wrapper
+    order: -1
+    flex: none
+
   .about-img
-    max-width: 230px
+    width: 230px
+    height: 288px
 
   .about-text
-    text-align: center
-
-
+    text-align: left
 
 
 
