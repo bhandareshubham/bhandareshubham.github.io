@@ -3,4 +3,4 @@ title: Writing
 ---
 
 
-I plan to use this space to share research notes, essays, data explorations, and commentary on economics, politics, and society.
+I use this space to share my research notes, essays, data explorations, and commentary on economics, politics, and society.
