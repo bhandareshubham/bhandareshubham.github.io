@@ -3,46 +3,67 @@
 
 @import utils, basic, layout, classes, rouge_github
 
+body
+  background: #ffffff
+  padding: 0 calc(38% - 22rem)
+  color: #222222
+
 body > *
-  padding: 1.75em calc(42% - 16rem)
-  padding: clamp(1.5em, 4vw, 1.75em) max(1.5em, calc(42% - 16rem))
-  box-shadow: 0 1px gray(12), 0 1em 2em -1em rgba(light(16), .05)
+  background: #ffffff
+  color: #222222
+  padding: 1.75em calc(22% - 6rem)
+  padding: clamp(1.5em, 4vw, 1.75em) max(1.5em, 22% - 6rem)
+  box-shadow: 0 -1px #eeeeee inset, 0 0 1em rgba(0, 0, 0, 0.05)
 
-.about-container
-  display: flex
-  align-items: flex-start
-  gap: 2rem
-  margin-top: 1rem
+body > header, body > footer
+  background: #ffffff
+  color: #222222
 
-.about-img-wrapper
-  flex-shrink: 0
+body > header a,
+body > footer a
+  color: #222222
 
-.about-img
-  width: 100%
-  max-width: 350px
-  height: auto
-  aspect-ratio: 4 / 5
-  object-fit: cover
-  border-radius: 8px
-  display: block
+a
+  color: #333333
 
-.about-text
-  flex: 1
+a:hover
+  color: #000000
 
-@media (max-width: 768px)
-  .about-container
-    flex-direction: column
-    align-items: center
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+  color: #111111
 
-  .about-img
-    max-width: 230px
+p,
+li
+  color: #222222
 
-  .about-text
-    text-align: center
+{% if site.show_frame contains "." %}
 
-footer i
-  font-size: 1.6rem
-  margin: 0 8px
+@media (min-width: 60em)
+  body
+    background: 0 0/cover url({{ site.show_frame | relative_url }})
+    background-attachment: fixed
+    color-scheme: only light
+    padding: 1em calc(38% - 22rem)
 
-footer a
-  text-decoration: none
+    > :first-child
+      border-radius: 4px 4px 0 0
+
+    > :last-child
+      border-radius: 0 0 4px 4px
+
+{% endif %}
+
+body,
+body *,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+  font-family: "Times New Roman", Times, serif
