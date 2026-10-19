@@ -1,3 +1,4 @@
+
 ---
 title: Home
 description: "Shubham Bhandare – Economics researcher working on political economy, elections, development, political representation, and applied microeconomics."
@@ -10,11 +11,12 @@ description: "Shubham Bhandare – Economics researcher working on political eco
     <h1>About</h1>
 
     <p>
-      I am Shubham Bhandare. I recently completed my M.A. in Economics
-      from Azim Premji University, Bengaluru. I currently work as a
-      Research Assistant at the Centre for Policy Research (CPR),
-      where I work with Dr. Rahul Verma on projects related to political
-      parties, elections, and public opinion.
+      I am Shubham Bhandare. I recently joined the National Council of Applied
+      Economic Research (NCAER) as a Research Associate at the Centre for
+      Economic Growth (CEG). Previously, I worked as a Research Assistant at
+      the Centre for Policy Research (CPR), where I worked with Dr. Rahul
+      Verma on projects related to political parties, elections, and public
+      opinion.
     </p>
 
     <p>
@@ -23,19 +25,18 @@ description: "Shubham Bhandare – Economics researcher working on political eco
       from unreserved constituencies in Maharashtra.
     </p>
 
-    <p>
-      My research interests lie at the intersection of Economics and
-      Politics. I am particularly interested in understanding how
-      institutions, political processes, and historical contexts shape
-      socio-economic outcomes. My interests include applied microeconomics,
-      political economy, political representation, caste politics,
-      voting behavior, and public policy.
-    </p>
+   
+<p>
+  My research interests lie at the intersection of Economics and
+  Politics. I am particularly interested in understanding how
+  institutions, political processes, and historical contexts shape
+  socio-economic outcomes. My interests include applied microeconomics,
+  political economy, political representation, caste politics,
+  voting behavior, and public policy. I am also interested in exploring
+  different types of datasets, ranging from conventional to
+  unconventional sources.
+</p>
 
-    <p>
-      I am also interested in exploring different types of datasets,
-      ranging from conventional to unconventional sources.
-    </p>
 
     <p>
       <strong>Primary fields:</strong><br>
