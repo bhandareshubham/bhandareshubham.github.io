@@ -25,18 +25,19 @@ description: "Shubham Bhandare – Economics researcher working on political eco
       from unreserved constituencies in Maharashtra.
     </p>
 
-   
-<p>
-  My research interests lie at the intersection of Economics and
-  Politics. I am particularly interested in understanding how
-  institutions, political processes, and historical contexts shape
-  socio-economic outcomes. My interests include applied microeconomics,
-  political economy, political representation, caste politics,
-  voting behavior, and public policy. I am also interested in exploring
-  different types of datasets, ranging from conventional to
-  unconventional sources.
-</p>
+    <p>
+      My research interests lie at the intersection of Economics and
+      Politics. I am particularly interested in understanding how
+      institutions, political processes, and historical contexts shape
+      socio-economic outcomes. My interests include applied microeconomics,
+      political economy, political representation, caste politics,
+      voting behavior, and public policy.
+    </p>
 
+    <p>
+      I am also interested in exploring different types of datasets,
+      ranging from conventional to unconventional sources.
+    </p>
 
     <p>
       <strong>Primary fields:</strong><br>
